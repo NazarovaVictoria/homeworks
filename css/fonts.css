@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "RobotoSlab-Regular";
+	src:
+		url("../fonts/RobotoSlab/woff2/RobotoSlab-Regular.woff2") format("woff2"),
+		url("../fonts/RobotoSlab/woff/RobotoSlab-Regular.woff") format("woff"),
+		url("../fonts/RobotoSlab/ttf/RobotoSlab-Regular.ttf") format("truetype");
+	font-display: swap;
+}
